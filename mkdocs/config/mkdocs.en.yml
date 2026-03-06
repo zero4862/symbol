@@ -107,6 +107,7 @@ nav:
           - WebSockets:
               - devbook/websockets/listen-new-blocks.md
               - devbook/websockets/listen-transaction-flow.md
+              - devbook/websockets/listen-transaction-error.md
       - Reference Guides:
           - Python SDK: devbook/reference/py/
           - TypeScript SDK: devbook/reference/ts/
@@ -114,6 +115,9 @@ nav:
           - Symbol REST API: devbook/reference/rest/symbol.md
           - Serialization: devbook/reference/serialization/index.md
           - WebSockets: devbook/reference/websockets/index.md
+      - WebSockets:
+          - devbook/websockets/listen-transaction-flow.md
+          - devbook/websockets/listen-transaction-error.md
   - Textbook:
       - textbook/intro.md
       - textbook/cryptography.md
