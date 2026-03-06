@@ -1,0 +1,6 @@
+Using node https://reference.symboltest.net:3001
+Monitoring address: TCHBDENCLKEBILBPWP3JPB2XNY64OE7PYHHE32I
+Connected to wss://reference.symboltest.net:3001/ws with uid Xk7mP2nQ9rTv4wYz=
+Subscribed to status channel
+Transaction 9B4E2F7A1C8D3E56... rejected with code: Failure_Core_Insufficient_Balance
+Unsubscribed from status channel

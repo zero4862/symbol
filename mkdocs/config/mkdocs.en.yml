@@ -114,6 +114,9 @@ nav:
           - Symbol REST API: devbook/reference/rest/symbol.md
           - Serialization: devbook/reference/serialization/index.md
           - WebSockets: devbook/reference/websockets/index.md
+      - WebSockets:
+          - devbook/websockets/listen-transaction-flow.md
+          - devbook/websockets/listen-transaction-error.md
   - Textbook:
       - textbook/intro.md
       - textbook/cryptography.md
